@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'devOps Assignment - TODO List',
+          'DevOps Assignment- TODO list',
         ),
       ),
       floatingActionButton: FloatingActionButton(
